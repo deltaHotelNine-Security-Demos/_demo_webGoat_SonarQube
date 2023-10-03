@@ -1,4 +1,4 @@
-# SonarQube Test Pass
+# SonarQube Test
 name: Build
 
 on:
