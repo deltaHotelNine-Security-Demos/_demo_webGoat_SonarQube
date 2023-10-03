@@ -1,11 +1,14 @@
 # SonarQube Test 2
-name: Build
-
+name: SonarQube Quality Gate
 on:
   push:
     branches:
       - main
-
+  pull_request:
+    paths-ignore:
+      - '.txt'
+      - 'LICENSE'
+      - 'docs/**'
 
 jobs:
   build:
