@@ -1,4 +1,4 @@
-# SonarQube Pull Request Test
+# SonarQube Pull Request Test Failure
 name: SonarQube Quality Gate
 
 on:
