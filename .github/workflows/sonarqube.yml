@@ -1,4 +1,4 @@
-# SonarQube Test 2
+# SonarQube Pull Request Test
 name: SonarQube Quality Gate
 
 on:
