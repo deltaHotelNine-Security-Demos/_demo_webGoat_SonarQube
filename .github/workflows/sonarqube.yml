@@ -1,5 +1,5 @@
 # SonarQube Pull Request Test Failure
-name: SonarQube Quality Gate
+name: SonarQube Quality Gate Test
 
 on:
   push:
