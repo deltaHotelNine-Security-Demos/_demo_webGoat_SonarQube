@@ -139,8 +139,8 @@
     <!-- Use UTF-8 Encoding -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-    <sonar.organization>deltahotelnine-security-demos</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.organization>deltahotelnine-security-demos</sonar.organization>
     <thymeleaf.version>3.1.1.RELEASE</thymeleaf.version>
     <webdriver.version>5.3.3</webdriver.version>
     <webgoat.port>8080</webgoat.port>
