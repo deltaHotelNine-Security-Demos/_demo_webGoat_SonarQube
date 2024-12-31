@@ -108,6 +108,8 @@
   </issueManagement>
 
   <properties>
+    <sonar.organization>deltahotelnine-security-demos</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- Shared properties with plugins and version numbers across submodules-->
     <asciidoctorj.version>2.5.10</asciidoctorj.version>
     <!-- Upgrading needs UI work in WebWolf -->
